@@ -138,7 +138,7 @@
                                                     <div class="invalid-feedback mb-3">Add .com at last to insert valid data </div>
                                                 </div>
 
-                                                <a href="change-password.html" class="btn btn-lg btn-rounded btn-theme w-100 ">Reset Password</a>
+                                                <a href="change-password.html" class="btn btn-md btn-rounded btn-theme w-100 ">Reset Password</a>
                                             </form>
                                         </div>
                                     </div>
@@ -167,16 +167,17 @@
                             <div class="swiper-slide bg-gradient-theme-light pb-5">
                                 <div class="row justify-content-center h-100">
                                     <div class="col-12 col-md-10 col-xl-8 align-self-center">
-                                        <img src="assets/img/orange.png" alt="" class="image">
+                                        <img src="./bata.png" alt="" class="image img-fluid">
                                         <div class="px-3 text-start text-md-center">
-                                            <h6 class="text-uppercase text-orange">Fruits</h6>
-                                            <h3>Best and Fresh fruits<br>delivering direct from farms</h3>
-                                            <p class="text-secondary">Backed with 1.6 acre cold storage</p>
+                                            <h6 class="text-uppercase text-orange"></h6>
+                                            <p class="text-secondary">Reset your password
+
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-          
+
                         </div>
                         <div class="swiper-pagination pagination-smallline text-start text-md-center px-3"></div>
                     </div>
@@ -204,7 +205,7 @@
     <!-- page level script here -->
     <script>
         'use strict'
-        $(window).on('load', function () {
+        $(window).on('load', function() {
             /* swiper */
             var swiper = new Swiper(".introswiper", {
                 autoplay: true,

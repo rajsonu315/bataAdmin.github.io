@@ -151,7 +151,7 @@
                                                     <div class="valid-feedback">Woooh! Entered password matched </div>
                                                 </div>
 
-                                                <a href="thankyou-1.html" class="btn btn-lg btn-rounded btn-theme w-100 ">Submit</a>
+                                                <a href="thankyou-1.html" class="btn btn-md btn-rounded btn-theme w-100 ">Submit</a>
                                             </form>
                                         </div>
                                     </div>

@@ -18,6 +18,7 @@ include('header.php')
     <!-- page title bar ends -->
 
 
+
     <!-- Trending products ends -->
 
 
@@ -28,17 +29,45 @@ include('header.php')
                 <div class="card-header">
 
                     <div class="row align-items-center page-title">
-                        <div class="col-12 col-md mb-2 mb-sm-0">
-                            <!-- <h6 class="mb-0">Achievement Master</h6> -->
-                            <!-- <p class="text-secondary small">User list can be intuitive and usable not just with table grid.</p>  -->
+                        <div class="col-12 col-md-3 col-lg-3 ">
+                            <div class="card border-0">
+                                <select class="form-select" aria-label="Default select example">
+                                    <option selected> select Emp Name</option>
+                                    <option value="1">One</option>
+                                    <option value="2">Two</option>
+                                    <option value="3">Three</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-md-3 col-lg-3 ">
+                            <div class="card border-0">
+                                <select class="form-select" aria-label="Default select example">
+                                    <option selected> select Functions</option>
+                                    <option value="1">One</option>
+                                    <option value="2">Two</option>
+                                    <option value="3">Three</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-md-3 col-lg-3 ">
+                            <div class="card border-0">
+                                <select class="form-select " aria-label="Default select example">
+                                    <option selected> select KPI</option>
+                                    <option value="1">One</option>
+                                    <option value="2">Two</option>
+                                    <option value="3">Three</option>
+                                </select>
+                            </div>
                         </div>
 
                         <div class="col-auto ps-0 position-relative">
 
 
 
-                            <a href="#" class="btn btn-lg btn-theme btn-rounded "><i class="bi bi-cloud-download me-1"></i> Download</a>
-                            <a href="#" class="btn btn-lg btn-white btn-rounded "><i class="bi bi-cloud-upload me-1"></i> Upload</a>
+                            <a href="./AchievementMasterRequest.php" class="btn btn-md btn-theme btn-rounded "> Requests</a>
+                            <a href="./AchievementMasterUpload.php" class="btn btn-md btn-white btn-rounded "><i class="bi bi-cloud-upload me-1"></i> Upload</a>
 
 
                         </div>
@@ -106,9 +135,9 @@ include('header.php')
 
 
                                 <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
-                                <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
-                            </td>
+                                    <a href="./AchievementMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                    <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
+                                </td>
 
                             </tr>
                             <tr>
@@ -142,9 +171,9 @@ include('header.php')
 
 
                                 <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
-                                <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
-                            </td>
+                                    <a href="./AchievementMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                    <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
+                                </td>
 
                             </tr>
 

@@ -18,9 +18,9 @@ include('header.php')
 
                     <div class="col-auto ps-0 position-relative">
 
-                        <a href="#" class="btn btn-lg btn-theme btn-rounded "><i class="bi bi-cloud-download me-1"></i> Download</a>
-                        <a href="#" class="btn btn-lg btn-white btn-rounded "><i class="bi bi-cloud-upload me-1"></i> Upload</a>
-                        <a href="#" class="btn btn-md btn-white btn-rounded "><i class="bi bi-plus-circle me-1"></i> Add</a>
+                        <a href="#" class="btn btn-md btn-theme btn-rounded "><i class="bi bi-cloud-download me-1"></i> Download</a>
+                        <a href="./EmployeeMasterUpload.php" class="btn btn-md btn-white btn-rounded "><i class="bi bi-cloud-upload me-1"></i> Upload</a>
+                        <a href="./EmployeeMasterAdd.php" class="btn btn-md btn-white btn-rounded "><i class="bi bi-plus-circle me-1"></i> Add</a>
 
 
                     </div>
@@ -110,7 +110,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-yellow">Pending</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -142,7 +142,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-blue">Waiting</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -174,7 +174,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-green">Complete</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -206,7 +206,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-red">Rejected</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -238,7 +238,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-yellow">Pending</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -270,7 +270,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-blue">Waiting</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -302,7 +302,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-green">Complete</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>
@@ -334,7 +334,7 @@ include('header.php')
                                 <span class="badge badge-sm bg-red">Rejected</span>
                             </td>
                             <td>
-                                <a href="#" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
+                                <a href="./EmployeeMasterEdit.php" class="btn btn-md btn-white  btn-rounded "><i class="bi bi-pencil me-1"></i> </a>
                                 <a href="#" class="btn btn-md  btn-theme btn-rounded "><i class="bi bi-trash me-1"></i> </a>
                             </td>
                         </tr>

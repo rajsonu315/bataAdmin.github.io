@@ -15357,6 +15357,9 @@ a.card {
 .dropdown-toggle.no-caret::after {
   display: none;
 }
+.dropdown-menu-right,.hides{
+  display: none !important;
+}
 
 .notification-dd .dropdown-menu {
   max-height: 400px;

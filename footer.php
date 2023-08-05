@@ -149,7 +149,7 @@
                     }]
                 },
                 "sorting": {
-                    "enabled": true
+                    "enabled": false
                 },
             }, function(ft) {
                 $('#footablestot').html($('.footable-pagination-wrapper .label').html())

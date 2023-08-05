@@ -19,8 +19,8 @@
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon180.png" sizes="180x180">
-    <link rel="icon" href="assets/img/favicon32.png" sizes="32x32" type="image/png">
-    <link rel="icon" href="assets/img/favicon16.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="assets/img/favicon180.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="assets/img/favicon180.png" sizes="16x16" type="image/png">
 
     <!-- Google fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -59,11 +59,10 @@
 
                 <div class="logo-square animated bg-gradient-theme-light mb-4">
                     <div class="icon-logo">
-                        <img src="assets/img/logo-icon.png" alt="" />
+                        <img src="assets/img/favicon180.png" alt="" />
                     </div>
                 </div>
-                <h4 class="mb-1">GoMobile<b class="fw-bold">UX</b> <sup>PRO</sup></h4>
-                <h6 class="mb-3 text-secondary">eCommerce Admin UI UX</h6>
+                <h4 class="mb-1">Loading<b class="fw-bold">.</b> <sup>..</sup></h4>
                 <div class="dotslaoder">
                     <div></div>
                     <div></div>
