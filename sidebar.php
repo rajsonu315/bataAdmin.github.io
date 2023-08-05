@@ -41,21 +41,7 @@
                 <div class="col-12 px-0">
                     <ul class="nav nav-pills nav-iconic">
 
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="app-explorer">
-                                <div class="avatar avatar-36 icon">
-                                    <span class="bi bi-folder position-relative">
-                                        <span class="position-absolute top-0 start-100 p-1 bg-danger border border-light rounded-circle">
-                                            <span class="visually-hidden">New alerts</span>
-                                        </span>
-                                    </span>
-                                </div>
-                                <div class="col">Explorer</div>
-                                <div class="arrow">
-                                    <i class="bi bi-chevron-right"></i>
-                                </div>
-                            </a>
-                        </li>
+
 
                         <li class="nav-item">
                             <a class=" nav-link" href="index.php">
