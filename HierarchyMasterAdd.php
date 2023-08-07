@@ -38,8 +38,12 @@ include('header.php')
                                 <div class="col-12 col-md-6 mb-2">
                                     <div class="form-group mb-3 position-relative  ">
                                         <div class="form-floating">
-                                            <input type="text" placeholder="EID" name="EID" required="" class="form-control ">
-                                            <label>EID</label>
+                                        <select class="form-select " aria-label="Default select example">
+                                                <option selected>  Employee Name</option>
+                                                <option value="1">One</option>
+                                                <option value="2">Two</option>
+                                                <option value="3">Three</option>
+                                            </select>
                                         </div>
                                     </div>
                                     <div class="invalid-feedback mb-3">Add valid data </div>
@@ -47,31 +51,19 @@ include('header.php')
                                 <div class="col-12 col-md-6">
                                     <div class="form-group mb-3 position-relative ">
                                         <div class="form-floating">
-                                            <input type="text" placeholder="Employee Name" name="Employee Name" required="" class="form-control ">
-                                            <label>Employee Name</label>
+                                        <select class="form-select " aria-label="Default select example">
+                                                <option selected> Manager Name</option>
+                                                <option value="1">One</option>
+                                                <option value="2">Two</option>
+                                                <option value="3">Three</option>
+                                            </select>
                                         </div>
                                     </div>
                                     <div class="invalid-feedback mb-3">Add valid data </div>
                                 </div>
-                                <div class="col-12 col-md-6 mb-2">
-                                    <div class="form-group mb-3 position-relative  ">
-                                        <div class="form-floating">
-                                            <input type="text" placeholder="MID" name="MID" required="" class="form-control ">
-                                            <label>MID</label>
-                                        </div>
-                                    </div>
-                                    <div class="invalid-feedback mb-3">Add valid data </div>
-                                </div>
+   
 
-                                <div class="col-12 col-md-6 mb-2">
-                                    <div class="form-group mb-3 position-relative  ">
-                                        <div class="form-floating">
-                                            <input type="text" placeholder="Manager Name" name="Manager_Name" required="" class="form-control ">
-                                            <label>Manager Name</label>
-                                        </div>
-                                    </div>
-                                    <div class="invalid-feedback mb-3">Add valid data </div>
-                                </div>
+   
 
                             </div>
                             <button class="btn btn-md btn-rounded btn-theme">Update</button>

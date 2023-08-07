@@ -20,48 +20,48 @@ include('header.php')
     <div class="row pb-3">
         <div class="col-12 col-md-3 col-lg-3 ">
             <div class="card border-0">
-            <select class="form-select" aria-label="Default select example">
-                        <option selected> select Area</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
-                    </select>
+                <select class="form-select" aria-label="Default select example">
+                    <option selected> select Area</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+                </select>
             </div>
         </div>
 
         <div class="col-12 col-md-3 col-lg-3 ">
             <div class="card border-0">
-            <select class="form-select" aria-label="Default select example">
-                        <option selected> select Department</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
-                    </select>
+                <select class="form-select" aria-label="Default select example">
+                    <option selected> select Department</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+                </select>
             </div>
         </div>
 
         <div class="col-12 col-md-3 col-lg-3 ">
             <div class="card border-0">
-            <select class="form-select " aria-label="Default select example">
-                        <option selected> select Quarter</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
-                    </select>
+                <select class="form-select " aria-label="Default select example">
+                    <option selected> select Quarter</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+                </select>
             </div>
         </div>
 
         <div class="col-12 col-md-3 col-lg-3 ">
             <div class="card border-0">
                 <form action="">
-                <div class="input-group input-group-md w-100">
-                    <input type="text" class="form-control" placeholder="Search id... " value="">
-                    <div class="input-group-text rounded px-0">
-                        <button class="btn btn-md btn-link" type="button">
-                            <i class="bi bi-search"></i>
-                        </button>
+                    <div class="input-group input-group-md w-100">
+                        <input type="text" class="form-control" placeholder="Search id... " value="">
+                        <div class="input-group-text rounded px-0">
+                            <button class="btn btn-md btn-link" type="button">
+                                <i class="bi bi-search"></i>
+                            </button>
+                        </div>
                     </div>
-                </div>
                 </form>
 
             </div>
@@ -222,20 +222,20 @@ include('header.php')
 
                                 <td>
                                     <p class="mb-0">Banana</p>
-                                   
+
                                 </td>
                                 <td>
                                     <p class="mb-0">123456</p>
-                                  
+
                                 </td>
 
                                 <td>
                                     <p class="mb-0">john@gmailtestid.com</p>
-                                  
+
                                 </td>
                                 <td>
                                     <p class="mb-0">36.00</p>
-                                 
+
                                 </td>
 
                                 <td>

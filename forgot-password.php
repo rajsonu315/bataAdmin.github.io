@@ -131,7 +131,7 @@
                                                     <div class="invalid-feedback mb-3">Add .com at last to insert valid data </div>
                                                 </div>
 
-                                                <a href="#" class="btn btn-md btn-rounded btn-theme w-100 ">Reset Password</a>
+                                                <a href="./change-password.php" class="btn btn-md btn-rounded btn-theme w-100 ">Reset Password</a>
                                             </form>
                                         </div>
                                     </div>

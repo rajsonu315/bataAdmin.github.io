@@ -52,8 +52,8 @@
                         <img src="assets/img/logo-icon.png" alt="" />
                     </div>
                 </div>
-                <h4 class="mb-1">GoMobile<b class="fw-bold">UX</b> <sup>PRO</sup></h4>
-                <h6 class="mb-3 text-secondary">eCommerce Admin UI UX</h6>
+                <h4 class="mb-1"><b class="fw-bold"></b> <sup></sup></h4>
+                <h6 class="mb-3 text-secondary"></h6>
                 <div class="dotslaoder">
                     <div></div>
                     <div></div>
@@ -92,22 +92,16 @@
                                     <div class="row align-items-center gx-2">
                                         <div class="col-auto">
                                             <figure class="avatar avatar-44">
-                                                <img src="assets/img/logo-icon.png" alt="" class="w-100" />
                                             </figure>
                                         </div>
                                         <div class="col-auto">
-                                            <h5 class="mb-0 mt-1">GoMobile<b class="fw-bold">UX</b> <sup>PRO</sup></h5>
-                                            <p class="text-secondary small">eCommerce Admin UI UX</p>
+                                            <h5 class="mb-0 mt-1"><b class="fw-bold"></b> <sup></sup></h5>
+                                            <p class="text-secondary small"></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-auto">
-                                    <a href="home.html" class="btn btn-link btn-44 btn-square text-theme" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Dashboard">
-                                        <i class="bi bi-speedometer"></i>
-                                    </a>
-                                    <a href="index.html" class="btn btn-link btn-44 btn-square text-theme" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Shopping Portal">
-                                        <i class="bi bi-shop"></i>
-                                    </a>
+             
                                 </div>
                             </header>
                             <!-- header ends -->
@@ -150,11 +144,10 @@
                                                     <div class="valid-feedback">Woooh! Entered password matched </div>
                                                 </div>
 
-                                                <a href="thankyou-1.html" class="btn btn-md btn-rounded btn-theme w-100 ">Submit</a>
+                                                <a href="#" class="btn btn-md btn-rounded btn-theme w-100 ">Submit</a>
                                             </form>
                                         </div>
                                     </div>
-                                    <p class="text-secondary text-center mb-4">Already have account? <a href="signin.html">Sign in</a> here</p>
                                 </div>
                             </div>
                         </div>
@@ -163,15 +156,13 @@
                             <!-- footer -->
                             <footer class="footer row">
                                 <div class="col-12 col-md-12 col-lg py-2">
-                                    <span class="text-secondary small">Copyright @2022, Designed by <a href="https://maxartkiller.com/" target="_blank">Maxartkiller</a> on Earth ❤️</span>
                                 </div>
                                 <div class="col-12 col-md-12 col-lg-auto align-self-center">
                                     <ul class="nav small">
-                                        <li class="nav-item"><a class="nav-link" href="faqs.html">Help</a></li>
+                
+                                        <li class="nav-item"><a class="nav-link" href="">Terms of Use</a></li>
                                         <li class="nav-item">|</li>
-                                        <li class="nav-item"><a class="nav-link" href="terms-and-conditions.html">Terms of Use</a></li>
-                                        <li class="nav-item">|</li>
-                                        <li class="nav-item"><a class="nav-link" href="privacy-policy.html">Privacy Policy</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="">Privacy Policy</a></li>
                                     </ul>
                                 </div>
                             </footer>
@@ -187,39 +178,16 @@
                             <div class="swiper-slide bg-gradient-theme-light pb-5">
                                 <div class="row justify-content-center h-100">
                                     <div class="col-12 col-md-10 col-xl-8 align-self-center">
-                                        <img src="assets/img/orange.png" alt="" class="image">
+                                        <img src="./bata.png" alt="" class="image img-fluid">
                                         <div class="px-3 text-start text-md-center">
-                                            <h6 class="text-uppercase text-orange">Fruits</h6>
-                                            <h3>Best and Fresh fruits<br>delivering direct from farms</h3>
+                                            <h6 class="text-uppercase text-orange"></h6>
+                                            <h3>Best<br>delivering direct from farms</h3>
                                             <p class="text-secondary">Backed with 1.6 acre cold storage</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-slide bg-gradient-yellow-light pb-5">
-                                <div class="row justify-content-center h-100">
-                                    <div class="col-12 col-md-10 col-xl-8 align-self-center">
-                                        <img src="assets/img/banana.png" alt="" class="image">
-                                        <div class="px-3 text-start text-md-center">
-                                            <h6 class="text-uppercase text-orange">trending</h6>
-                                            <h3>You are with world's<br>largest transportation</h3>
-                                            <p class="text-secondary">Daily 500 tons product selling</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide bg-gradient-green-light pb-5">
-                                <div class="row justify-content-center h-100">
-                                    <div class="col-12 col-md-10 col-xl-8 align-self-center">
-                                        <img src="assets/img/pineapple.png" alt="" class="image">
-                                        <div class="px-3 text-start text-md-center">
-                                            <h6 class="text-uppercase text-orange">Healthcare</h6>
-                                            <h3>No more preservatives,<br>No more side effects</h3>
-                                            <p class="text-secondary">Healthcare check passed for products</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            
                         </div>
                         <div class="swiper-pagination pagination-smallline text-start text-md-center px-3"></div>
                     </div>
@@ -248,7 +216,7 @@
     <!-- page level script here -->
     <script>
         'use strict'
-        $(window).on('load', function () {
+        $(window).on('load', function() {
             /* swiper */
             var swiper = new Swiper(".introswiper", {
                 autoplay: true,
