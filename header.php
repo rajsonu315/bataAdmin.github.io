@@ -27,7 +27,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
     <!-- bootstrap icons -->
-    <link rel="stylesheet" href="./cdn.jsdelivr.net/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
 
     <!-- chosen css -->
     <link rel="stylesheet" href="assets/vendor/chosen_v1.8.7/chosen.min.css">

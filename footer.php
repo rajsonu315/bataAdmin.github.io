@@ -121,7 +121,7 @@
     <!-- Customized jquery file  -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/color-scheme.js"></script>
-    <script src="./cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="assets/momentjs/latest/moment.min.js"></script>
     <script src="assets/vendor/daterangepicker/daterangepicker.js"></script>
     <script src="assets/vendor/chosen_v1.8.7/chosen.jquery.min.js"></script>
     <script src="assets/vendor/nouislider/nouislider.min.js"></script>

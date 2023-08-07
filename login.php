@@ -13,7 +13,6 @@
 
     <!-- manifest meta -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="manifest" href="manifest.json" />
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon180.png" sizes="180x180">
@@ -25,7 +24,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
     <!-- bootstrap icons -->
-    <link rel="stylesheet" href="cdn.jsdelivr.net/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
 
     <!-- chosen css -->
     <link rel="stylesheet" href="assets/vendor/chosen_v1.8.7/chosen.min.css">
@@ -219,7 +218,7 @@
     <!-- Customized jquery file  -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/color-scheme.js"></script>
-    <script src="cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="assets/momentjs/latest/moment.min.js"></script>
     <script src="assets/vendor/daterangepicker/daterangepicker.js"></script>
     <script src="assets/vendor/chosen_v1.8.7/chosen.jquery.min.js"></script>
     <script src="assets/vendor/nouislider/nouislider.min.js"></script>

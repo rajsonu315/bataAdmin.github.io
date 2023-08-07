@@ -14,7 +14,6 @@
 
     <!-- manifest meta -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="manifest" href="manifest.json" />
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/favicon180.png" sizes="180x180">
@@ -26,7 +25,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 
     <!-- bootstrap icons -->
-    <link rel="stylesheet" href="../../../../../cdn.jsdelivr.net/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/npm/bootstrap-icons%401.8.1/font/bootstrap-icons.css">
 
     <!-- chosen css -->
     <link rel="stylesheet" href="assets/vendor/chosen_v1.8.7/chosen.min.css">
@@ -53,8 +52,8 @@
                         <img src="assets/img/logo-icon.png" alt="" />
                     </div>
                 </div>
-                <h4 class="mb-1">GoMobile<b class="fw-bold">UX</b> <sup>PRO</sup></h4>
-                <h6 class="mb-3 text-secondary">eCommerce Admin UI UX</h6>
+                <h4 class="mb-1"><b class="fw-bold"></b> <sup></sup></h4>
+                <h6 class="mb-3 text-secondary"></h6>
                 <div class="dotslaoder">
                     <div></div>
                     <div></div>
@@ -93,22 +92,16 @@
                                     <div class="row align-items-center gx-2">
                                         <div class="col-auto">
                                             <figure class="avatar avatar-44">
-                                                <img src="assets/img/logo-icon.png" alt="" class="w-100" />
                                             </figure>
                                         </div>
                                         <div class="col-auto">
-                                            <h5 class="mb-0 mt-1">GoMobile<b class="fw-bold">UX</b> <sup>PRO</sup></h5>
-                                            <p class="text-secondary small">eCommerce Admin UI UX</p>
+                                            <h5 class="mb-0 mt-1"><b class="fw-bold"></b> <sup></sup></h5>
+                                            <p class="text-secondary small"></p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-auto">
-                                    <a href="home.html" class="btn btn-link btn-44 btn-square text-theme" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Dashboard">
-                                        <i class="bi bi-speedometer"></i>
-                                    </a>
-                                    <a href="index.html" class="btn btn-link btn-44 btn-square text-theme" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Shopping Portal">
-                                        <i class="bi bi-shop"></i>
-                                    </a>
+            
                                 </div>
                             </header>
                             <!-- header ends -->
@@ -138,7 +131,7 @@
                                                     <div class="invalid-feedback mb-3">Add .com at last to insert valid data </div>
                                                 </div>
 
-                                                <a href="change-password.html" class="btn btn-md btn-rounded btn-theme w-100 ">Reset Password</a>
+                                                <a href="#" class="btn btn-md btn-rounded btn-theme w-100 ">Reset Password</a>
                                             </form>
                                         </div>
                                     </div>
@@ -151,7 +144,7 @@
                             <!-- footer -->
                             <footer class="footer row">
                                 <div class="col-12 col-md-12 col-lg py-2">
-                                    <span class="text-secondary small">Copyright @2022, Designed by <a href="" target="_blank">admin</a> on Earth ❤️</span>
+                                    <span class="text-secondary small">Copyright @2022, Designed by <a href="" >admin</a> on Earth ❤️</span>
                                 </div>
 
                             </footer>
@@ -195,26 +188,14 @@
     <!-- Customized jquery file  -->
     <script src="assets/js/main.js"></script>
     <script src="assets/js/color-scheme.js"></script>
-    <script src="cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+    <script src="assets/momentjs/latest/moment.min.js"></script>
     <script src="assets/vendor/daterangepicker/daterangepicker.js"></script>
     <script src="assets/vendor/chosen_v1.8.7/chosen.jquery.min.js"></script>
     <script src="assets/vendor/nouislider/nouislider.min.js"></script>
     <script src="assets/vendor/fooTable/js/footable.min.js"></script>
     <script src="assets/js/header-title.js"></script>
 
-    <!-- page level script here -->
-    <script>
-        'use strict'
-        $(window).on('load', function() {
-            /* swiper */
-            var swiper = new Swiper(".introswiper", {
-                autoplay: true,
-                pagination: {
-                    el: ".swiper-pagination",
-                },
-            });
-        });
-    </script>
+
 </body>
 
 
